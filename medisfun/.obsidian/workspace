@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "c5497b58e88b23f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b17393286e1fb2a5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Food poisoning.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5759889d6e9a9c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d20bd86a82e83ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44720b19c9d91bc9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b232b94e04311250",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f64b011cc5543720",
+    "type": "split",
+    "children": [
+      {
+        "id": "860336dc5b1e36bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e46a8cb47bd999b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Food poisoning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b17393286e1fb2a5",
+  "lastOpenFiles": [
+    "Food poisoning.md"
+  ]
+}
